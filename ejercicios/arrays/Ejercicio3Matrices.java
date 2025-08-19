@@ -37,11 +37,10 @@ public class Ejercicio3Matrices {
             return;
         }
         char[][] matriz = new char[n][n];
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
+        for (int i = 0; i < n; i++) 
+            for (int j = 0; j < n; j++) 
                 matriz[i][j] = '_';
-            }
-        }
+
         // Colocar las 'X' en las diagonales
         for (int i = 0; i < n; i++) {
             matriz[i][i] = 'X'; // Diagonal principal
@@ -49,9 +48,8 @@ public class Ejercicio3Matrices {
         }
 
         for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
+            for (int j = 0; j < n; j++)
                 System.out.print(matriz[i][j]);
-            }
             System.out.println();
         }
         entrada.close();
