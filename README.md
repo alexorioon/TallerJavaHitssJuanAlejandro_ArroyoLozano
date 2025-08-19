@@ -3,8 +3,11 @@ contiene todos los ejercicios que se han propuesto en las sesiones.
 
 Acá se muestra un pequeño diagrama de la estructura del proyecto:
 ```
+├───arrays
 ├───ciclos
-├───ejercicios ✅☕
+├───ejercicios  ✅☕
+│   ├───arrays
+│   └───ciclos
 ├───entradas
 ├───flujo
 └───sintaxis
