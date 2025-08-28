@@ -1,9 +1,9 @@
-package test;
+package ejercicios.abstractos.SistemaPedidos.test;
 
-import clases.Order;
-import enums.OrderPriority;
-import enums.OrderStatus;
-import enums.PaymentMethod;
+import ejercicios.abstractos.SistemaPedidos.clases.Order;
+import ejercicios.abstractos.SistemaPedidos.enums.OrderPriority;
+import ejercicios.abstractos.SistemaPedidos.enums.OrderStatus;
+import ejercicios.abstractos.SistemaPedidos.enums.PaymentMethod;
 
 public class TestMain {
     public static void main(String[] args) {

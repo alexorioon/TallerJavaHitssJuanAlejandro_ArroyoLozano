@@ -1,8 +1,8 @@
-package clases;
+package ejercicios.abstractos.SistemaPedidos.clases;
 
-import enums.OrderPriority;
-import enums.OrderStatus;
-import enums.PaymentMethod;
+import ejercicios.abstractos.SistemaPedidos.enums.OrderPriority;
+import ejercicios.abstractos.SistemaPedidos.enums.OrderStatus;
+import ejercicios.abstractos.SistemaPedidos.enums.PaymentMethod;
 
 public class Order {
     private final int idOrder;

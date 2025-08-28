@@ -1,4 +1,4 @@
-package enums;
+package ejercicios.abstractos.SistemaPedidos.enums;
 
 public enum OrderPriority {
     LOW {
