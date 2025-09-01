@@ -17,8 +17,11 @@ TallerJavaHitssJuanAlejandro_ArroyoLozano/
 │  │  ├─ Ejercicio3Notas.java
 │  │  ├─ Ejercicio4.java
 │  │  └─ Ejercicio5.java
-│  └─ estaticos/
-│     └─ SistemaBancario/
+│  ├─ estaticos/
+│  │  └─ SistemaBancario/
+│  └─ herencia/
+│     └─ CompaniaEmpleados/
+│
 └─ teoria/  🤔📖📚
    ├─ arrays/
    │  ├─ Declaracion.java
@@ -52,7 +55,8 @@ TallerJavaHitssJuanAlejandro_ArroyoLozano/
    │  ├─ SentenciaSwitch.java
    │  └─ SwitchMejorado.java
    ├─ herencia/
-   │  └─ herencia1/
+   │  ├─ herencia1/
+   │  └─ herenciabanco/
    ├─ ManejoFechasHoras/
    ├─ parametrosVariables/
    ├─ settersgetters/
@@ -64,4 +68,3 @@ TallerJavaHitssJuanAlejandro_ArroyoLozano/
       └─ TiposPrimitivos.java
 
 ```
-
