@@ -15,7 +15,7 @@ public class CuentaAhorro extends CuentaBancaria {
     @Override
     public void mostrarInfo() {
         super.mostrarInfo();
-        System.out.println("Tipo Ahorros | Tasa dr interés: " + (tasaInteres * 100) + "%");
+        System.out.println("Tipo Ahorros | Tasa de interés: " + (tasaInteres * 100) + "%");
     }
     
 }

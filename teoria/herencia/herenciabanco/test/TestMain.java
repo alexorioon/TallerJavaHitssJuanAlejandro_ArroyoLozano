@@ -26,6 +26,8 @@ public class TestMain {
         System.out.println("Cuenta 2");
         cb2.retirar(2500);
         cb2.mostrarInfo();
-        
+        System.out.println("Cuenta ahorro");
+        ca.aplicarIntereses();
+        ca.mostrarInfo();
     }
 }
