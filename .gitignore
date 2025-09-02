@@ -1,0 +1,22 @@
+# Node modules
+node_modules/
+
+# Archivos de npm
+package-lock.json
+package.json
+
+# Prettier config
+.prettierrc
+.prettierrc.yaml
+.prettierrc.json
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# VS Code settings (opcional)
+.vscode/
+
+# Archivos compilados de Java (opcional)
+*.class

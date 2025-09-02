@@ -1,25 +1,25 @@
 package teoria.estaticos.estaticos1.utils;
 
 public class Persona {
-    private String nombre;
-    private int edad;
 
-    //  Atributo para contar cuántos objetos se van creando
-    private static int contador;
+  private String nombre;
+  private int edad;
 
-    public Persona(String nombre, int edad) {
-        this.nombre = nombre;
-        this.edad = edad;
-        ++contador;
-    }
+  //  Atributo para contar cuántos objetos se van creando
+  private static int contador;
 
-    public static int getContador() {
-        return contador;
-    }
+  public Persona(String nombre, int edad) {
+    this.nombre = nombre;
+    this.edad = edad;
+    ++contador;
+  }
 
-    @Override
-    public String toString() {
-        return "{nombre=" + nombre + ", edad=" + edad + "}";
-    }
-    
+  public static int getContador() {
+    return contador;
+  }
+
+  @Override
+  public String toString() {
+    return "{nombre=" + nombre + ", edad=" + edad + "}";
+  }
 }

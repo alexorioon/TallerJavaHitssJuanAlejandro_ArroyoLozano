@@ -1,46 +1,56 @@
 package teoria.estaticos.sistemapos.clases;
 
 public class Venta {
-    private final int id;
-    private Producto producto;
-    private int cantidad;
 
-    //  Atributo estático
-    private static int contador;
+  private final int id;
+  private Producto producto;
+  private int cantidad;
 
-    public Venta(Producto producto, int cantidad) {
-        this.id = ++contador;
-        this.producto = producto;
-        this.cantidad = cantidad;
-    }
+  //  Atributo estático
+  private static int contador;
 
-    public int getId() {
-        return id;
-    }
+  public Venta(Producto producto, int cantidad) {
+    this.id = ++contador;
+    this.producto = producto;
+    this.cantidad = cantidad;
+  }
 
-    public Producto getProducto() {
-        return producto;
-    }
+  public int getId() {
+    return id;
+  }
 
-    public void setProducto(Producto producto) {
-        this.producto = producto;
-    }
+  public Producto getProducto() {
+    return producto;
+  }
 
-    public int getCantidad() {
-        return cantidad;
-    }
+  public void setProducto(Producto producto) {
+    this.producto = producto;
+  }
 
-    public void setCantidad(int cantidad) {
-        this.cantidad = cantidad;
-    }
+  public int getCantidad() {
+    return cantidad;
+  }
 
-    public double getSubtotal(){
-        return producto.getPrecio()*cantidad;
-    }
+  public void setCantidad(int cantidad) {
+    this.cantidad = cantidad;
+  }
 
-    @Override
-    public String toString() {
-        return "{id=" + id + ", producto=" + producto + ", cantidad=" + cantidad + ", subtotal=" + getSubtotal() + "}";
-    }
-    
+  public double getSubtotal() {
+    return producto.getPrecio() * cantidad;
+  }
+
+  @Override
+  public String toString() {
+    return (
+      "{id=" +
+      id +
+      ", producto=" +
+      producto +
+      ", cantidad=" +
+      cantidad +
+      ", subtotal=" +
+      getSubtotal() +
+      "}"
+    );
+  }
 }

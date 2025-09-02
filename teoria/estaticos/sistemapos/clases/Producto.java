@@ -1,41 +1,41 @@
 package teoria.estaticos.sistemapos.clases;
 
 public class Producto {
-    private final int id;
-    private String nombre;
-    private double precio;
 
-    private static int contador = 1;
-    
-    public Producto(String nombre, double precio) {
-        this.id = contador++;
-        this.nombre = nombre;
-        this.precio = precio;
-    }
+  private final int id;
+  private String nombre;
+  private double precio;
 
-    public int getId() {
-        return id;
-    }
+  private static int contador = 1;
 
-    public String getNombre() {
-        return nombre;
-    }
+  public Producto(String nombre, double precio) {
+    this.id = contador++;
+    this.nombre = nombre;
+    this.precio = precio;
+  }
 
-    public void setNombre(String nombre) {
-        this.nombre = nombre;
-    }
+  public int getId() {
+    return id;
+  }
 
-    public double getPrecio() {
-        return precio;
-    }
+  public String getNombre() {
+    return nombre;
+  }
 
-    public void setPrecio(double precio) {
-        this.precio = precio;
-    }
+  public void setNombre(String nombre) {
+    this.nombre = nombre;
+  }
 
-    @Override
-    public String toString() {
-        return "{id=" + id + ", nombre=" + nombre + ", precio=" + precio + "}";
-    }
-    
+  public double getPrecio() {
+    return precio;
+  }
+
+  public void setPrecio(double precio) {
+    this.precio = precio;
+  }
+
+  @Override
+  public String toString() {
+    return "{id=" + id + ", nombre=" + nombre + ", precio=" + precio + "}";
+  }
 }
