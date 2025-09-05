@@ -47,7 +47,7 @@ public class ProyectoCatalogo {
     productos[8] = new Iphone("Apple", 24799, "Titatio Blanco", "iPhone 16 Pro Max");
     productos[9] = new TvLcd("Sony", 15999, 65);
     
-    //  Imprimir los objetos en consola con ayuda del método toString()
+    //  Imprime los objetos en consola con ayuda del método toString()
     for (IProducto producto : productos) {
       System.out.println(producto.toString());
       System.out.println("=======================================================================");
