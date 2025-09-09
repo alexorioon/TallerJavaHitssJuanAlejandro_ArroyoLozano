@@ -1,0 +1,7 @@
+REPORTE DE ESTUDIANTES
+===================================
+Total de estudiantes: 5
+Promedio de edades: 20.40
+Promedio de calificaciones: 81.00
+Mejor estudiante: 95.0 (Renata)
+Peor estudiante: 65.0 (Delfino)
