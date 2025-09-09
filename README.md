@@ -8,7 +8,7 @@ Acá se muestra un pequeño **diagrama** de la estructura del proyecto:
 ```
 TallerJavaHitssJuanAlejandro_ArroyoLozano/
 │
-├─ ejercicios/ 💻✅☕
+├─ ejercicios/  💻✅☕
 │  ├─ abstractos/
 │  │  ├─ mamiferos/
 │  │  └─ SistemaPedidos/
@@ -24,6 +24,10 @@ TallerJavaHitssJuanAlejandro_ArroyoLozano/
 │  │  └─ Ejercicio5.java
 │  ├─ estaticos/
 │  │  └─ SistemaBancario/
+│  ├─ excepciones/
+│  │  └─ alumnos/
+│  ├─ genericos/
+│  │  └─ repositorioGenerico/
 │  ├─ herencia/
 │  │  └─ CompaniaEmpleados/
 │  └─ interfaces/
@@ -32,6 +36,9 @@ TallerJavaHitssJuanAlejandro_ArroyoLozano/
 ├─ teoria/  🤔📖📚
 │  ├─ abstraccion/
 │  │  └─ // falta xd
+│  ├─ archivos/
+│  │  ├─ ejemplo1/
+│  │  └─ escuela/
 │  ├─ arrays/
 │  │  ├─ Declaracion.java
 │  │  ├─ Matriz.java
@@ -65,6 +72,8 @@ TallerJavaHitssJuanAlejandro_ArroyoLozano/
 │  │  ├─ OperadorTernario.java
 │  │  ├─ SentenciaSwitch.java
 │  │  └─ SwitchMejorado.java
+│  ├─ genericos/
+│  │  └─ ejemplo1/
 │  ├─ herencia/
 │  │  ├─ herencia1/
 │  │  └─ herenciabanco/
@@ -80,5 +89,6 @@ TallerJavaHitssJuanAlejandro_ArroyoLozano/
 │     ├─ Operadores.java
 │     ├─ TiposDatos.java
 │     └─ TiposPrimitivos.java
+│
 └─ README.md
 ```
