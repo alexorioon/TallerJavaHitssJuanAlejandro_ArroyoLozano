@@ -27,6 +27,8 @@ TallerJavaHitssJuanAlejandro_ArroyoLozano/
 │  ├─ excepciones/
 │  │  └─ alumnos/
 │  ├─ genericos/
+│  │  ├─ carritoSupermercado/
+│  │  ├─ facturacion/
 │  │  └─ repositorioGenerico/
 │  ├─ herencia/
 │  │  └─ CompaniaEmpleados/
@@ -82,6 +84,7 @@ TallerJavaHitssJuanAlejandro_ArroyoLozano/
 │  │  └─ facturas/
 │  ├─ ManejoFechasHoras/
 │  ├─ parametrosVariables/
+│  ├─ records/
 │  ├─ settersgetters/
 │  │  └─ automovil/
 │  └─ sintaxis/
