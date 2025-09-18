@@ -32,8 +32,10 @@ TallerJavaHitssJuanAlejandro_ArroyoLozano/
 │  │  └─ repositorioGenerico/
 │  ├─ herencia/
 │  │  └─ CompaniaEmpleados/
-│  └─ interfaces/
-│     └─ catalogo/
+│  ├─ interfaces/
+│  │  └─ catalogo/
+│  └─ listas/
+│     └─ vuelos/
 │
 ├─ teoria/  🤔📖📚
 │  ├─ abstraccion/
@@ -82,6 +84,8 @@ TallerJavaHitssJuanAlejandro_ArroyoLozano/
 │  ├─ interfaces/
 │  │  ├─ ejemploPagosLogger/
 │  │  └─ facturas/
+│  ├─ listas
+│  │  └─ arraylist/
 │  ├─ ManejoFechasHoras/
 │  ├─ parametrosVariables/
 │  ├─ records/
