@@ -27,7 +27,7 @@ public class Facturacion {
      *
      */
 
-    /* TODO:
+    /*
      * Una clase con métodos estáticos los cuales son:
      * 1.- Guardar en un archivo la factura, con la siguiente nomenglatura
      *      en el nombre del archivo: "factura_idFactura.txt", todas las
