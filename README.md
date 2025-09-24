@@ -22,6 +22,8 @@ TallerJavaHitssJuanAlejandro_ArroyoLozano/
 │  │  ├─ Ejercicio3Notas.java
 │  │  ├─ Ejercicio4.java
 │  │  └─ Ejercicio5.java
+│  ├─ conjuntos/
+│  │  └─ gestionTorneoDeportivo/
 │  ├─ estaticos/
 │  │  └─ SistemaBancario/
 │  ├─ excepciones/
@@ -55,6 +57,8 @@ TallerJavaHitssJuanAlejandro_ArroyoLozano/
 │  │  ├─ ManejoDeNumeros.java
 │  │  ├─ SumarHastaCero.java
 │  │  └─ TablaMultiplicar.java
+│  ├─ conjuntos/
+│  │  └─ ejemplo1/
 │  ├─ entradas/
 │  │  ├─ Cadenas.java
 │  │  ├─ EjercicioCadenas.jpg
@@ -87,6 +91,8 @@ TallerJavaHitssJuanAlejandro_ArroyoLozano/
 │  ├─ listas
 │  │  └─ arraylist/
 │  ├─ ManejoFechasHoras/
+│  ├─ mapas/
+│  │  └─ ejemplo1/
 │  ├─ parametrosVariables/
 │  ├─ records/
 │  ├─ settersgetters/
