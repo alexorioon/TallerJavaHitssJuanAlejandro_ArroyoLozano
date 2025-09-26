@@ -36,8 +36,10 @@ TallerJavaHitssJuanAlejandro_ArroyoLozano/
 │  │  └─ CompaniaEmpleados/
 │  ├─ interfaces/
 │  │  └─ catalogo/
-│  └─ listas/
-│     └─ vuelos/
+│  │─ listas/
+│  │  └─ vuelos/
+│  └─ mapas/
+│     └─ inventarioTiendaDeportes/
 │
 ├─ teoria/  🤔📖📚
 │  ├─ abstraccion/
@@ -92,7 +94,8 @@ TallerJavaHitssJuanAlejandro_ArroyoLozano/
 │  │  └─ arraylist/
 │  ├─ ManejoFechasHoras/
 │  ├─ mapas/
-│  │  └─ ejemplo1/
+│  │  ├─ ejemplo1/implementacion/
+│  │  └─ mapasConObjetos/
 │  ├─ parametrosVariables/
 │  ├─ records/
 │  ├─ settersgetters/
