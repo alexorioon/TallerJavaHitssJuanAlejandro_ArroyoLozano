@@ -134,8 +134,7 @@ public class TestMain {
 
   // Método para generar reporte de productos ordenados alfabéticamente por nombre
   public static void generarReportePorNombre(Scanner scanner, LinkedHashMap<String, Producto> inventario) {
-    // Convertimos el LinkedHashMap a una lista de productos para ordenarlos por
-    // nombre
+    // Convertimos el LinkedHashMap a una lista de productos para ordenarlos por nombre
     List<Map.Entry<String, Producto>> listaProductos = new ArrayList<>(inventario.entrySet());
     listaProductos.sort((p1, p2) -> {
       return p1.getValue().getName().compareTo(p2.getValue().getName());
