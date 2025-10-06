@@ -28,6 +28,9 @@ TallerJavaHitssJuanAlejandro_ArroyoLozano/
 │  │  └─ SistemaBancario/
 │  ├─ excepciones/
 │  │  └─ alumnos/
+│  ├─ expresionesLambda/
+│  │  ├─ ejercicio1/
+│  │  └─ palabraMásRepetida/
 │  ├─ genericos/
 │  │  ├─ carritoSupermercado/
 │  │  ├─ facturacion/
@@ -36,6 +39,9 @@ TallerJavaHitssJuanAlejandro_ArroyoLozano/
 │  │  └─ CompaniaEmpleados/
 │  ├─ interfaces/
 │  │  └─ catalogo/
+│  ├─ interfacesFuncionales/
+│  │  ├─ libreriaUniversitaria/
+│  │  └─ ventaSupermercado/
 │  │─ listas/
 │  │  └─ vuelos/
 │  └─ mapas/
@@ -90,6 +96,8 @@ TallerJavaHitssJuanAlejandro_ArroyoLozano/
 │  ├─ interfaces/
 │  │  ├─ ejemploPagosLogger/
 │  │  └─ facturas/
+│  ├─ interfacesFuncionales/
+│  │  └─ ejemplo1/
 │  ├─ listas
 │  │  └─ arraylist/
 │  ├─ ManejoFechasHoras/
@@ -100,11 +108,12 @@ TallerJavaHitssJuanAlejandro_ArroyoLozano/
 │  ├─ records/
 │  ├─ settersgetters/
 │  │  └─ automovil/
-│  └─ sintaxis/
-│     ├─ HolaMundo.java
-│     ├─ Operadores.java
-│     ├─ TiposDatos.java
-│     └─ TiposPrimitivos.java
+│  ├─ sintaxis/
+│  │  ├─ HolaMundo.java
+│  │  ├─ Operadores.java
+│  │  ├─ TiposDatos.java
+│  │  └─ TiposPrimitivos.java
+│  └─ streams/
 │
 └─ README.md
 ```
