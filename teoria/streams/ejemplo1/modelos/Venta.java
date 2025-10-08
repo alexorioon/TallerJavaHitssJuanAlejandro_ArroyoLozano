@@ -1,4 +1,4 @@
-package teoria.streams.modelos;
+package teoria.streams.ejemplo1.modelos;
 
 import java.time.LocalDate;
 

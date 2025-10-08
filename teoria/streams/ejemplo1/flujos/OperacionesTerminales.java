@@ -1,4 +1,4 @@
-package teoria.streams.flujos;
+package teoria.streams.ejemplo1.flujos;
 
 import java.util.List;
 import java.util.Map;

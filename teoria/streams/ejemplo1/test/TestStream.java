@@ -1,11 +1,11 @@
-package teoria.streams.test;
+package teoria.streams.ejemplo1.test;
 
 import java.time.LocalDate;
 import java.util.List;
 import java.util.Map;
 import java.util.stream.Collectors;
 
-import teoria.streams.modelos.Venta;
+import teoria.streams.ejemplo1.modelos.Venta;
 
 public class TestStream {
   public static void main(String[] args) {
