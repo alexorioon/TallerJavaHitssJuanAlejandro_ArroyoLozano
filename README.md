@@ -44,8 +44,10 @@ TallerJavaHitssJuanAlejandro_ArroyoLozano/
 │  │  └─ ventaSupermercado/
 │  │─ listas/
 │  │  └─ vuelos/
-│  └─ mapas/
-│     └─ inventarioTiendaDeportes/
+│  │─ mapas/
+│  │  └─ inventarioTiendaDeportes/
+│  └─ streams/
+│     └─ sistemaRHyEvalDesem/
 │
 ├─ teoria/  🤔📖📚
 │  ├─ abstraccion/
@@ -114,6 +116,8 @@ TallerJavaHitssJuanAlejandro_ArroyoLozano/
 │  │  ├─ TiposDatos.java
 │  │  └─ TiposPrimitivos.java
 │  └─ streams/
+│  │  ├─ ejemplo1/
+│  │  └─ sistemaFacturacionStreams/
 │
 └─ README.md
 ```
